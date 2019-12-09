@@ -40,7 +40,8 @@ defmodule FirebaseAdminEx.MixProject do
   defp package do
     [
       licenses: ["Apache 2.0"],
-      links: %{"GitHub" => "https://github.com/scripbox/firebase-admin-ex"}
+      links: %{"GitHub" => "https://github.com/scripbox/firebase-admin-ex"},
+      organization: "hippware"
     ]
   end
 end
